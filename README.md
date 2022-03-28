@@ -20,7 +20,7 @@
 
   ## Usage
 
-  This should be used as a backend for a website that sells things using a simple tagging system.  This will only handle the inventory management.
+  This should be used as a backend for a website that sells things using a simple tagging system.  This will only handle the inventory management.  You can see a video of the code running [on my Youtube channel](https://youtu.be/YN5yYEejYXQ).
 
   ## How to Contribute
 
